@@ -1,4 +1,4 @@
-# @roberiomg-ui/react
+# @roberiomg-ui/ts-config
 
 ## 3.0.0
 
@@ -12,9 +12,3 @@
 
 - Alteração nome pacotes
 - 598fbc0: Add components
-
-## 1.0.1
-
-### Patch Changes
-
-- Add option to pass reference to TextInput and adjust some styles
