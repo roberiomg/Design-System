@@ -1,5 +1,25 @@
 # @roberiomg-ui/ts-config
 
+## 6.0.0
+
+### Major Changes
+
+- Teste
+
+## 5.0.0
+
+### Major Changes
+
+- Troca nome pacote
+
+## 4.0.0
+
+### Major Changes
+
+- Alteração package
+- Correção
+- Inicial
+
 ## 3.0.0
 
 ### Major Changes
