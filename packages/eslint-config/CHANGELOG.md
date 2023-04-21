@@ -1,5 +1,11 @@
 # @roberiomg-ui/eslint-config
 
+## 8.0.0
+
+### Major Changes
+
+- teste3
+
 ## 7.0.0
 
 ### Major Changes
